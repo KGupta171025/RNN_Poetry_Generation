@@ -1,0 +1,5 @@
+# Main dependencies for RNN Poetry Generation
+numpy==2.4.6
+tensorflow==2.21.0
+keras==3.14.1
+requests==2.34.2
