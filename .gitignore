@@ -7,7 +7,6 @@ __pycache__/
 venv/
 env/
 ENV/
-.env
 
 # Model files
 *.keras
@@ -21,3 +20,5 @@ ENV/
 # Downloaded files / Cache
 .keras/
 shakespeare.txt
+config.bat
+node_modules
